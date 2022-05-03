@@ -48,3 +48,5 @@ Bsp.
 	Extended Numbered ACL (ip access-list 1 tcp any any eq port)
 	
 -- use **established** Keyword for specification that requests outside the network are not forwarded (ACK - Flag must be 1)
+
+Permit /Deny/remark
